@@ -1,4 +1,6 @@
-# stm32f405rgt6-Simple-Test-Board
+# STM32F405RGT6 Simple Test Board ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+
+> 🚧 **In Progress:** This design is under active development. Updates and test results will be added soon.
 
 ## Architecture
 
