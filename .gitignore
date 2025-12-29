@@ -1,0 +1,48 @@
+
+# ===========================
+# 1. HARDWARE (KiCad)
+# ===========================
+# Ignore local "Preferences" files (Zoom level, active layer, etc.)
+# These change every time you save and create unnecessary Git noise.
+*.kicad_prl
+*.kicad_dru
+
+# Ignore the huge auto-generated backup folders
+*-backups/
+fp-info-cache
+
+# Ignore backup zip files (as seen in your screenshot)
+*.zip
+*.7z
+*.rar
+
+# ===========================
+# 2. FIRMWARE & CODE
+# ===========================
+# Ignore compilation outputs (The file is generated from source, don't track it)
+build/
+*.hex
+*.bin
+*.elf
+*.o
+*.map
+
+# Python/Script junk (if you use scripts for calcs)
+__pycache__/
+*.pyc
+
+# ===========================
+# 3. SIMULATIONS (LTSpice / Simbeor / Ngspice)
+# ===========================
+# Track the schematic (.asc), but IGNORE the massive waveform data
+*.raw
+*.fft
+*.log
+
+# ===========================
+# 4. OS & EDITOR JUNK
+# ===========================
+Thumbs.db
+.DS_Store
+
+# Note: We are keeping .vscode/ because you want to share workspace settings.

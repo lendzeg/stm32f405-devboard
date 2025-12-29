@@ -28204,6 +28204,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 156.972 151.13)
+		(size 12.7 15.748)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "99510c74-c2d8-4875-b947-ac794e89352e")
+		(property "Sheetname" "000_Microcontroller"
+			(at 156.972 150.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "000_microcontroller.kicad_sch"
+			(at 156.972 167.4626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stm32f405_devboard_v1.0.0"
+				(path "/6b16d7e3-405f-4c62-a806-758d517aa001"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
