@@ -1,4 +1,0 @@
-# Electronics
-
-Current State:
-
