@@ -1,7 +1,7 @@
 # STM32F405RGT6 Dev Board
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/lendzeg/stm32f405-devboard?color=blue) 
-![Status](https://img.shields.io/badge/Status-In_Progress-blue)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 
 ## Description
@@ -22,3 +22,6 @@ This project is a minimal STM32F4-based development board designed as a firmware
 
 ![alt text](block_diagram.png)
 
+## Schematic
+
+![schematic](./schematic.png)
