@@ -22,6 +22,11 @@ This project is a minimal STM32F4-based development board designed as a firmware
 
 ![alt text](block_diagram.png)
 
+## Pinout
+
+![pinout](pinout.png)
+
 ## Schematic
+
 
 ![schematic](./schematic.png)
